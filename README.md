@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivansh Soni</h1>
 <h3 align="center">A passionate Java Full-Stack Developer and an even more enthusiastic problem solver.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivanshsoni04" alt="shivanshsoni04" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivanshsoni04" alt="shivanshsoni04" /></a> </p> -->
 
 - 📫 How to reach me **shivanshsoni4518@gmail.com**
 
