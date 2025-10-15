@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivanshsoni04" alt="shivanshsoni04" /></a> </p>
 
-- 🔭 I’m currently working on **E-commerce system**
-
 - 📫 How to reach me **shivanshsoni4518@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
